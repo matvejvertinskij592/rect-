@@ -1,0 +1,2 @@
+  shapeRenderer.rect(playerX, playerY, 50, 50);
+        shapeRenderer.end();
